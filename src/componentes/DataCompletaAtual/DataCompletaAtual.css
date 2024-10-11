@@ -1,0 +1,10 @@
+.dataCompletaAtual {
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: rgb(224, 15, 161);
+    color: rgb(8, 8, 8);
+    margin: 16px;
+  }

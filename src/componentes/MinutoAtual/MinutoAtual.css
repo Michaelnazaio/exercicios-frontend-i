@@ -1,0 +1,19 @@
+.minutoAtual {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    background-color: var(--cor-fundo-padrao);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    background-color: rgb(224, 15, 161);
+    color: rgb(8, 8, 8);
+    margin: 16px;
+  }
+
+  .divMinuto {
+    display: flex;
+    justify-content: center;
+  }

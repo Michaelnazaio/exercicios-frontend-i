@@ -1,0 +1,7 @@
+.diaAtual {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(25, 0, 255);
+    color: rgb(244, 244, 248);
+    margin: 16px;
+  }
