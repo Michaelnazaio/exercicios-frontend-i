@@ -1,10 +1,13 @@
 import './OlaPessoa.css';
 
-const OlaPessoa = () => {
+const OlaPessoa = (props) => {
+
+    
+
     return (
         <>
             <div className='olaPessoa'>
-
+                Olá, {props.nome} 
             </div>
         </>
     )
